@@ -4,3 +4,4 @@ But the mummy will appriciate the lack of humidity.
 An ill-considered change
 This is 5th line in mars.txt.
 This is 5th line in mars.txt under marsTEMP branch.
+This is 6th line in mars.txt under marsTEMP branch.
